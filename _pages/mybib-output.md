@@ -1,3 +1,7 @@
+**Artelt, A.** (2024). *Contrasting explanations in machine learning.
+Efficiency, robustness & applications*. doi:
+[10.4119/unibi/2985769](https://doi.org/10.4119/unibi/2985769).
+
 Stahlhofen, P., **Artelt, A.**, Hermes, L., and Hammer, B. (2023).
 Adversarial attacks on leakage detectors in water distribution networks.
 in *Advances in computational intelligence - 17th international
@@ -66,7 +70,13 @@ intelligent data analysis, IDA 2023, louvain-la-neuve, belgium, april
 Crémilleux, S. Hess, and S. Nijssen (Springer), 29–41. doi:
 [10.1007/978-3-031-30047-9\\\_3](https://doi.org/10.1007/978-3-031-30047-9\_3).
 
-**Artelt, A.**, Schulz, A., and Hammer, B. (2023c). "Why here and not
+**Artelt, A.**, Malialis, K., Panayiotou, C. G., Polycarpou, M. M., and
+Hammer, B. (2023c). Unsupervised unlearning of concept drift with
+autoencoders. in *2023 ieee symposium series on computational
+intelligence (ssci)*, 703–710. doi:
+[10.1109/SSCI52147.2023.10372001](https://doi.org/10.1109/SSCI52147.2023.10372001).
+
+**Artelt, A.**, Schulz, A., and Hammer, B. (2023d). "Why here and not
 there?": Diverse contrasting explanations of dimensionality reduction.
 in *Proceedings of the 12th international conference on pattern
 recognition applications and methods, ICPRAM 2023, lisbon, portugal,
