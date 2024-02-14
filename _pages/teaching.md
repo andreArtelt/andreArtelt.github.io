@@ -9,7 +9,7 @@ author_profile: true
 
 ## Supervision
 
-8 Bachelor theses, 2 Master projects, 1 Master thesis.
+9 Bachelor theses, 2 Master projects, 1 Master thesis.
 
 ## Organization of Exercises
 
