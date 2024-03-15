@@ -1,9 +1,13 @@
+**Artelt, A.**, and Gregoriades, A. (2024). A two-stage algorithm for
+cost-efficient multi-instance counterfactual explanations. *CoRR*
+abs/2403.01221. Available at: <http://arxiv.org/abs/2403.01221>.
+
 **Artelt, A.** (2024). *Contrasting explanations in machine learning.
 Efficiency, robustness & applications*. doi:
 [10.4119/unibi/2985769](https://doi.org/10.4119/unibi/2985769).
 
-**Artelt, A.**, Shubham Sharma, Lecué, F., and Hammer, B. (2024). The effect
-of data poisoning on counterfactual explanations. *CoRR* abs/2402.08290.
+**Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2024). The effect of
+data poisoning on counterfactual explanations. *CoRR* abs/2402.08290.
 Available at: <http://arxiv.org/abs/2402.08290>.
 
 Stahlhofen, P., **Artelt, A.**, Hermes, L., and Hammer, B. (2023).
