@@ -6,6 +6,11 @@ abs/2403.01221. Available at: <http://arxiv.org/abs/2403.01221>.
 Efficiency, robustness & applications*. doi:
 [10.4119/unibi/2985769](https://doi.org/10.4119/unibi/2985769).
 
+Horstmann, A., **Artelt, A.**, Geminn, C. L., Hammer, B., Kopp, S.,
+Manzeschke, A., et al. (2024). Konversation mit künstlicher intelligenz:
+Gewonnene erkenntnisse und künftige herausforderungen. doi:
+[10.17185/duepublico/81565](https://doi.org/10.17185/duepublico/81565).
+
 **Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2024). The effect of
 data poisoning on counterfactual explanations. *CoRR* abs/2402.08290.
 Available at: <http://arxiv.org/abs/2402.08290>.
