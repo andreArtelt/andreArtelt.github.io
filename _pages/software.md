@@ -12,6 +12,15 @@ redirect_from:
 My most popular software packages are:
 
 <details>
+<summary><b><a href="https://github.com/WaterFutures/EPyT-Flow">EPyT-Flow</a> -- EPANET Python Toolkit - Flow</b>
+<img src="https://github.com/WaterFutures/EPyT-Flow/blob/main/docs/_static/net1_plot.png?raw=true" style="width: 100%,height: auto">
+</summary>
+<div markdown=1>
+[EPyT-Flow](https://github.com/WaterFutures/EPyT-Flow)is a Python package building on top of EPyT for providing easy access to water distribution network simulations. It aims to provide a high-level interface for the easy generation of hydraulic and water quality scenario data. However, it also provides access to low-level functions by EPANET and EPANET-MSX.
+</div>
+</details>
+
+<details>
 <summary><b><a href="https://github.com/andreartelt/ceml">CEML</a> -- Counterfactuals for Explaining Machine Learning models - A Python toolbox</b>
 <img src="https://raw.githubusercontent.com/andreArtelt/ceml/master/docs/_static/cf_illustration.png" style="width: 100%,height: auto">
 </summary>
