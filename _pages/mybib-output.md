@@ -1,15 +1,36 @@
-**Artelt, A.**, and Gregoriades, A. (2024). A two-stage algorithm for
+André Artelt, B. H. (2024a). Analyzing the Influence of Training Samples
+on Explanations. in *IJCAI – Workshop on Explainable Artificial
+Intelligence (XAI)*, ed. T. H. Tim Miller Hendrik Baier doi:
+[10.48550/arXiv.2406.03012](https://doi.org/10.48550/arXiv.2406.03012).
+
+André Artelt, S. G. V., Marios S. Kyriakou (2024b). A Toolbox for
+Supporting Research on AI in Water Distribution Networks. in *IJCAI –
+Workshop on AI in Critical Infrastructure*, ed. R. G. Felipe Leno da
+Silva Wencong Su doi:
+[10.48550/arXiv.2406.02078](https://doi.org/10.48550/arXiv.2406.02078).
+
+**Artelt, A.**, and Gregoriades, A. (2024a). A two-stage algorithm for
 cost-efficient multi-instance counterfactual explanations. *CoRR*
-abs/2403.01221. Available at: <http://arxiv.org/abs/2403.01221>.
+abs/2403.01221. doi:
+[10.48550/arxiv.2403.01221](https://doi.org/10.48550/arxiv.2403.01221).
 
 **Artelt, A.** (2024). *Contrasting explanations in machine learning.
 Efficiency, robustness & applications*. doi:
 [10.4119/unibi/2985769](https://doi.org/10.4119/unibi/2985769).
 
+André Artelt, S. G. V., Marios S. Kyriakou (2024c). EPyT-Flow – EPANET
+Python Toolkit - Flow. *GitHub repository*. Available at:
+<https://github.com/WaterFutures/EPyT-Flow>.
+
 Horstmann, A., **Artelt, A.**, Geminn, C. L., Hammer, B., Kopp, S.,
 Manzeschke, A., et al. (2024). Konversation mit künstlicher intelligenz:
 Gewonnene erkenntnisse und künftige herausforderungen. doi:
 [10.17185/duepublico/81565](https://doi.org/10.17185/duepublico/81565).
+
+**Artelt, A.**, and Gregoriades, A. (2024b). Supporting organizational
+decisions on how to improve customer repurchase using multi-instance
+counterfactual explanations. *Decision Support Systems*, 114249. doi:
+[10.1016/j.dss.2024.114249](https://doi.org/10.1016/j.dss.2024.114249).
 
 **Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2024). The effect of
 data poisoning on counterfactual explanations. *CoRR* abs/2402.08290.
@@ -26,7 +47,7 @@ in computer science., eds. I. Rojas, G. Joya, and A. Català (Springer),
 
 **Artelt, A.**, and Hammer, B. (2023). "Explain it in the same way!" –
 model-agnostic group fairness of counterfactual explanations. in *IJCAI
-– workshop on xai*, ed. H. B. Ofra Amir Tim Miller doi:
+– Workshop on XAI*, ed. H. B. Ofra Amir Tim Miller doi:
 [10.48550/arXiv.2211.14858](https://doi.org/10.48550/arXiv.2211.14858).
 
 Kuhl, U., **Artelt, A.**, and Hammer, B. (2023a). For better or worse: The
@@ -169,7 +190,7 @@ bruges, belgium, october 5-7, 2022* doi:
 
 **Artelt, A.**, Vrachimis, S., Eliades, D., Polycarpou, M., and Hammer, B.
 (2022e). One explanation to rule them all – ensemble consistent
-explanations. in *IJCAI – workshop on xai*, eds. R. Weber, O. Amir, and
+explanations. in *IJCAI – Workshop on XAI*, eds. R. Weber, O. Amir, and
 T. Miller doi:
 [10.48550/arXiv.2205.08974](https://doi.org/10.48550/arXiv.2205.08974).
 
@@ -271,8 +292,8 @@ Hinder, F., **Artelt, A.**, and Hammer, B. (2019). A probability theoretic
 approach to drifting data in continuous time domains. *CoRR*
 abs/1912.01969. Available at: <http://arxiv.org/abs/1912.01969>.
 
-**Artelt, A.** (2019a). CEML: Counterfactuals for explaining machine
-learning models - a python toolbox. Available at:
+**Artelt, A.** (2019a). CEML: Counterfactuals for Explaining Machine
+Learning models - A Python toolbox. Available at:
 <https://github.com/andreArtelt/ceml>.
 
 **Artelt, A.** (2019b). Introduction to machine learning-supplementary
