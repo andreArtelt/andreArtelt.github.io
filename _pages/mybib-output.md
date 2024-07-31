@@ -1,12 +1,12 @@
-André Artelt, B. H. (2024a). Analyzing the Influence of Training Samples
-on Explanations. in *IJCAI – Workshop on Explainable Artificial
+**Artelt, A.**, and Hammer, B. (2024). Analyzing the Influence of Training
+Samples on Explanations. in *IJCAI – Workshop on Explainable Artificial
 Intelligence (XAI)*, ed. T. H. Tim Miller Hendrik Baier doi:
 [10.48550/arXiv.2406.03012](https://doi.org/10.48550/arXiv.2406.03012).
 
-André Artelt, S. G. V., Marios S. Kyriakou (2024b). A Toolbox for
-Supporting Research on AI in Water Distribution Networks. in *IJCAI –
-Workshop on AI in Critical Infrastructure*, ed. R. G. Felipe Leno da
-Silva Wencong Su doi:
+**Artelt, A.**, Kyriakou, M. S., Vrachimis, S. G., Eliades, D. G., Hammer,
+B., and Polycarpou, M. M. (2024a). A Toolbox for Supporting Research on
+AI in Water Distribution Networks. in *IJCAI – Workshop on AI in
+Critical Infrastructure*, ed. R. G. Felipe Leno da Silva Wencong Su doi:
 [10.48550/arXiv.2406.02078](https://doi.org/10.48550/arXiv.2406.02078).
 
 **Artelt, A.**, and Gregoriades, A. (2024a). A two-stage algorithm for
@@ -18,8 +18,9 @@ abs/2403.01221. doi:
 Efficiency, robustness & applications*. doi:
 [10.4119/unibi/2985769](https://doi.org/10.4119/unibi/2985769).
 
-André Artelt, S. G. V., Marios S. Kyriakou (2024c). EPyT-Flow – EPANET
-Python Toolkit - Flow. *GitHub repository*. Available at:
+**Artelt, A.**, Kyriakou, M. S., Vrachimis, S. G., Eliades, D. G., Hammer,
+B., and Polycarpou, M. M. (2024b). EPyT-Flow – EPANET Python Toolkit -
+Flow. *GitHub repository*. Available at:
 <https://github.com/WaterFutures/EPyT-Flow>.
 
 Horstmann, A., **Artelt, A.**, Geminn, C. L., Hammer, B., Kopp, S.,
@@ -32,7 +33,7 @@ decisions on how to improve customer repurchase using multi-instance
 counterfactual explanations. *Decision Support Systems*, 114249. doi:
 [10.1016/j.dss.2024.114249](https://doi.org/10.1016/j.dss.2024.114249).
 
-**Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2024). The effect of
+**Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2024c). The effect of
 data poisoning on counterfactual explanations. *CoRR* abs/2402.08290.
 Available at: <http://arxiv.org/abs/2402.08290>.
 
