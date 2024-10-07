@@ -3,13 +3,18 @@ Samples on Explanations. in *IJCAI – Workshop on Explainable Artificial
 Intelligence (XAI)*, ed. T. H. Tim Miller Hendrik Baier doi:
 [10.48550/arXiv.2406.03012](https://doi.org/10.48550/arXiv.2406.03012).
 
+**Artelt, A.**, and Gregoriades, A. (2024a). Application of a Multi-instance
+Counterfactual Explanation Method for Road Safety Analysis. in *ECAI –
+Workshop on Agents in Traffic and Transportation (ATT)*, eds. A. Bazzan,
+I. Dusparic, M. Lujak, and G. Vizzari.
+
 **Artelt, A.**, Kyriakou, M. S., Vrachimis, S. G., Eliades, D. G., Hammer,
 B., and Polycarpou, M. M. (2024a). A Toolbox for Supporting Research on
 AI in Water Distribution Networks. in *IJCAI – Workshop on AI in
 Critical Infrastructure*, ed. R. G. Felipe Leno da Silva Wencong Su doi:
 [10.48550/arXiv.2406.02078](https://doi.org/10.48550/arXiv.2406.02078).
 
-**Artelt, A.**, and Gregoriades, A. (2024a). A two-stage algorithm for
+**Artelt, A.**, and Gregoriades, A. (2024b). A two-stage algorithm for
 cost-efficient multi-instance counterfactual explanations. *CoRR*
 abs/2403.01221. doi:
 [10.48550/arxiv.2403.01221](https://doi.org/10.48550/arxiv.2403.01221).
@@ -28,7 +33,16 @@ Manzeschke, A., et al. (2024). Konversation mit künstlicher intelligenz:
 Gewonnene erkenntnisse und künftige herausforderungen. doi:
 [10.17185/duepublico/81565](https://doi.org/10.17185/duepublico/81565).
 
-**Artelt, A.**, and Gregoriades, A. (2024b). Supporting organizational
+Szczuka, J. M., Horstmann, A. C., Szymczyk, N., Strathmann, C., **Artelt, A.**,
+Mavrina, L., et al. (2024). Let me explain what i did or what i
+would have done: An empirical study on the effects of explanations and
+person-likeness on trust in and understanding of algorithms. in
+*Proceedings of the 13th nordic conference on human-computer
+interaction* NordiCHI ’24. (New York, NY, USA: Association for Computing
+Machinery). doi:
+[10.1145/3679318.3685351](https://doi.org/10.1145/3679318.3685351).
+
+**Artelt, A.**, and Gregoriades, A. (2024c). Supporting organizational
 decisions on how to improve customer repurchase using multi-instance
 counterfactual explanations. *Decision Support Systems*, 114249. doi:
 [10.1016/j.dss.2024.114249](https://doi.org/10.1016/j.dss.2024.114249).
