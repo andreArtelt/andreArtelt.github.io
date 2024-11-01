@@ -6,7 +6,8 @@ Intelligence (XAI)*, ed. T. H. Tim Miller Hendrik Baier doi:
 **Artelt, A.**, and Gregoriades, A. (2024a). Application of a Multi-instance
 Counterfactual Explanation Method for Road Safety Analysis. in *ECAI –
 Workshop on Agents in Traffic and Transportation (ATT)*, eds. A. Bazzan,
-I. Dusparic, M. Lujak, and G. Vizzari.
+I. Dusparic, M. Lujak, and G. Vizzari Available at:
+<https://ceur-ws.org/Vol-3813/8.pdf>.
 
 **Artelt, A.**, Kyriakou, M. S., Vrachimis, S. G., Eliades, D. G., Hammer,
 B., and Polycarpou, M. M. (2024a). A Toolbox for Supporting Research on
@@ -15,9 +16,17 @@ Critical Infrastructure*, ed. R. G. Felipe Leno da Silva Wencong Su doi:
 [10.48550/arXiv.2406.02078](https://doi.org/10.48550/arXiv.2406.02078).
 
 **Artelt, A.**, and Gregoriades, A. (2024b). A two-stage algorithm for
-cost-efficient multi-instance counterfactual explanations. *CoRR*
-abs/2403.01221. doi:
-[10.48550/arxiv.2403.01221](https://doi.org/10.48550/arxiv.2403.01221).
+cost-efficient multi-instance counterfactual explanations. in *xAI-2024
+Late-breaking Work, Demos and Doctoral Consortium Joint Proceedings*,
+ed. G. M. Luca Longo Weiru Liu (Valletta, Malta). doi:
+[10.48550/arXiv.2403.01221](https://doi.org/10.48550/arXiv.2403.01221).
+
+Vaquet, V., Hinder, F., **Artelt, A.**, Ashraf, I., Strotherm, J., Vaquet,
+J., et al. (2024). Challenges, methods, data–a survey of machine
+learning in water distribution networks. in *Artificial neural networks
+and machine learning – icann 2024*, eds. M. Wand, K. Malinovská, J.
+Schmidhuber, and I. V. Tetko (Cham: Springer Nature Switzerland),
+155–170.
 
 **Artelt, A.** (2024). *Contrasting explanations in machine learning.
 Efficiency, robustness & applications*. doi:
@@ -50,6 +59,9 @@ counterfactual explanations. *Decision Support Systems*, 114249. doi:
 **Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2024c). The effect of
 data poisoning on counterfactual explanations. *CoRR* abs/2402.08290.
 Available at: <http://arxiv.org/abs/2402.08290>.
+
+André Artelt, K. G. (2024). WaterBenchmarkHub. *GitHub repository*.
+Available at: <https://github.com/WaterFutures/WaterBenchmarkHub>.
 
 Stahlhofen, P., **Artelt, A.**, Hermes, L., and Hammer, B. (2023).
 Adversarial attacks on leakage detectors in water distribution networks.
