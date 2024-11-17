@@ -26,16 +26,17 @@ J., et al. (2024). Challenges, methods, data–a survey of machine
 learning in water distribution networks. in *Artificial neural networks
 and machine learning – icann 2024*, eds. M. Wand, K. Malinovská, J.
 Schmidhuber, and I. V. Tetko (Cham: Springer Nature Switzerland),
-155–170.
+155–170. doi:
+[https://doi.org/10.1007/978-3-031-72356-8\_11](https://doi.org/https://doi.org/10.1007/978-3-031-72356-8_11).
 
 **Artelt, A.** (2024). *Contrasting explanations in machine learning.
 Efficiency, robustness & applications*. doi:
 [10.4119/unibi/2985769](https://doi.org/10.4119/unibi/2985769).
 
 **Artelt, A.**, Kyriakou, M. S., Vrachimis, S. G., Eliades, D. G., Hammer,
-B., and Polycarpou, M. M. (2024b). EPyT-Flow – EPANET Python Toolkit -
-Flow. *GitHub repository*. Available at:
-<https://github.com/WaterFutures/EPyT-Flow>.
+B., and Polycarpou, M. M. (2024b). EPyT-flow: A toolkit for generating
+water distribution network data. *Journal of Open Source Software* 9.
+doi: [10.21105/joss.07104](https://doi.org/10.21105/joss.07104).
 
 Horstmann, A., **Artelt, A.**, Geminn, C. L., Hammer, B., Kopp, S.,
 Manzeschke, A., et al. (2024). Konversation mit künstlicher intelligenz:

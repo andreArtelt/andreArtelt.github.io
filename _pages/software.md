@@ -31,3 +31,11 @@ Furthermore, CEML is easy to use and can be extended very easily. See the follow
 </div>
 <img src="https://raw.githubusercontent.com/andreArtelt/ceml/master/docs/_static/cf_illustration.png" style="width: 100%,height: auto">
 
+
+<h2>WaterBenchmarkHub</h2>
+<div markdown=1>
+[WaterBenchmarkHub](https://waterfutures.github.io/WaterBenchmarkHub) is a platform for providing benchmark resources regarding
+Water Distribution Networks (WDNs).
+</div>
+<img src="/files/waterbenchmarkhub.png" style="width: 100%,height: auto">
+
