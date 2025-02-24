@@ -17,6 +17,12 @@ My most popular software packages are:
 </div>
 <img src="https://github.com/WaterFutures/EPyT-Flow/blob/main/docs/_static/net1_plot.png?raw=true" style="width: 100%,height: auto">
 
+<h2>EPyT-Control -- EPANET Python Toolkit - Control</h2>
+<div markdown=1>
+[EPyT-Control](https://github.com/WaterFutures/EPyT-Control) is a Python package building on top of [EPyT-Flow](https://github.com/WaterFutures/EPyT-Flow) for implementing and evaluating control algorithms & strategies in smart water networks.
+</div>
+<img src="https://github.com/WaterFutures/EPyT-Control/blob/main/docs/_static/gimmick.png?raw=true" style="width: 100%,height: auto">
+
 
 <h2>CEML -- Counterfactuals for Explaining Machine Learning models - A Python toolbox</h2>
 <div markdown=1>
