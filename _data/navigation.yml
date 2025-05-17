@@ -6,6 +6,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Events"
+    url: /events/  
+
   - title: "Software"
     url: "/software/"
 
