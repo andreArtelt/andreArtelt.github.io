@@ -1,3 +1,12 @@
+Hermes, L., **Artelt, A.**, Stelios G. V., Polycarpou, M. M., and Hammer, B.
+(2025). A Benchmark for Physics-informed Machine Learning of Chlorine
+States in Water Distribution Networks. *SN Computer Science* 6. doi:
+[10.1007/s42979-025-04008-y](https://doi.org/10.1007/s42979-025-04008-y).
+
+**Artelt, A.** (2025). EPyT-Control – EPANET Python Toolkit - Control.
+*GitHub repository*. Available at:
+<https://github.com/WaterFutures/EPyT-Control>.
+
 **Artelt, A.**, and Hammer, B. (2024). Analyzing the Influence of Training
 Samples on Explanations. in *IJCAI – Workshop on Explainable Artificial
 Intelligence (XAI)*, ed. T. H. Tim Miller Hendrik Baier doi:
@@ -18,8 +27,7 @@ Critical Infrastructure*, ed. R. G. Felipe Leno da Silva Wencong Su doi:
 **Artelt, A.**, and Gregoriades, A. (2024b). A two-stage algorithm for
 cost-efficient multi-instance counterfactual explanations. in *xAI-2024
 Late-breaking Work, Demos and Doctoral Consortium Joint Proceedings*,
-ed. G. M. Luca Longo Weiru Liu (Valletta, Malta). doi:
-[10.48550/arXiv.2403.01221](https://doi.org/10.48550/arXiv.2403.01221).
+ed. G. M. Luca Longo Weiru Liu (Valletta, Malta).
 
 Vaquet, V., Hinder, F., **Artelt, A.**, Ashraf, I., Strotherm, J., Vaquet,
 J., et al. (2024). Challenges, methods, data–a survey of machine
@@ -43,8 +51,8 @@ Manzeschke, A., et al. (2024). Konversation mit künstlicher intelligenz:
 Gewonnene erkenntnisse und künftige herausforderungen. doi:
 [10.17185/duepublico/81565](https://doi.org/10.17185/duepublico/81565).
 
-Szczuka, J. M., Horstmann, A. C., Szymczyk, N., Strathmann, C., **Artelt, A.**,
-Mavrina, L., et al. (2024). Let me explain what i did or what i
+Szczuka, J. M., Horstmann, A. C., Szymczyk, N., Strathmann, C., Artelt,
+A., Mavrina, L., et al. (2024). Let me explain what i did or what i
 would have done: An empirical study on the effects of explanations and
 person-likeness on trust in and understanding of algorithms. in
 *Proceedings of the 13th nordic conference on human-computer
