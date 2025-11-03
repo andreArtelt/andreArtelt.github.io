@@ -1,11 +1,39 @@
-Hermes, L., **Artelt, A.**, Stelios G. V., Polycarpou, M. M., and Hammer, B.
+Hermes, L., André Artelt, S. G. V., Polycarpou, M. M., and Hammer, B.
 (2025). A Benchmark for Physics-informed Machine Learning of Chlorine
 States in Water Distribution Networks. *SN Computer Science* 6. doi:
 [10.1007/s42979-025-04008-y](https://doi.org/10.1007/s42979-025-04008-y).
 
-**Artelt, A.** (2025). EPyT-Control – EPANET Python Toolkit - Control.
+**Artelt, A.** (2025a). EPANET-PLUS. *GitHub repository*. Available at:
+<https://github.com/WaterFutures/EPANET-PLUS>
+
+**Artelt, A.** (2025b). EPyT-Control – EPANET Python Toolkit - Control.
 *GitHub repository*. Available at:
 <https://github.com/WaterFutures/EPyT-Control>.
+
+Leofante, F., **Artelt, A.**, Eliades, D., Korre, A., Toni, F., and Miller,
+T. (2025). Explainable ai, energy and critical infrastructure systems.
+*AI Magazine* 46. doi:
+[10.1002/aaai.70033](https://doi.org/10.1002/aaai.70033).
+
+Stahlhofen, P., Zanutto, D., **Artelt, A.**, Hermes, L., Müller, A., Hammer,
+B., et al. (2025). Reinforcement learning for dynamic pump scheduling
+under demand uncertainty. *21st Computing and Control in the Water
+Industry Conference (CCWI 2025) at the University of Sheffield (1st -
+3rd September 2025)*. doi:
+[10.15131/SHEF.DATA.29921117.V1](https://doi.org/10.15131/SHEF.DATA.29921117.V1).
+
+Mazur, A., Peters, H., **Artelt, A.**, Koller, L., Hartmann, C., Trächtler,
+A., et al. (2025). Studying the generalization behavior of surrogate
+models for punch-bending by generating plausible counterfactuals.
+*Lecture Notes in Computer Science*, 192–203. doi:
+[10.1007/978-3-032-04555-3\_16](https://doi.org/10.1007/978-3-032-04555-3_16).
+
+**Artelt, A.**, Giese, K., Vrachimis, S. G., Eliades, D. G., Polycarpou, M.
+M., and Hammer, B. (2025). The WaterBenchmarkHub: A Platform for
+Benchmarks in Water Distribution Networks. *21st Computing and Control
+in the Water Industry Conference (CCWI 2025) at the University of
+Sheffield (1st - 3rd September 2025)*. doi:
+[10.15131/SHEF.DATA.29921051.V1](https://doi.org/10.15131/SHEF.DATA.29921051.V1).
 
 **Artelt, A.**, and Hammer, B. (2024). Analyzing the Influence of Training
 Samples on Explanations. in *IJCAI – Workshop on Explainable Artificial
@@ -51,8 +79,7 @@ Manzeschke, A., et al. (2024). Konversation mit künstlicher intelligenz:
 Gewonnene erkenntnisse und künftige herausforderungen. doi:
 [10.17185/duepublico/81565](https://doi.org/10.17185/duepublico/81565).
 
-Szczuka, J. M., Horstmann, A. C., Szymczyk, N., Strathmann, C., Artelt,
-A., Mavrina, L., et al. (2024). Let me explain what i did or what i
+Szczuka, J. M., Horstmann, A. C., Szymczyk, N., Strathmann, C., **Artelt, A.**, Mavrina, L., et al. (2024). Let me explain what i did or what i
 would have done: An empirical study on the effects of explanations and
 person-likeness on trust in and understanding of algorithms. in
 *Proceedings of the 13th nordic conference on human-computer
@@ -68,9 +95,6 @@ counterfactual explanations. *Decision Support Systems*, 114249. doi:
 **Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2024c). The effect of
 data poisoning on counterfactual explanations. *CoRR* abs/2402.08290.
 Available at: <http://arxiv.org/abs/2402.08290>.
-
-André Artelt, K. G. (2024). WaterBenchmarkHub. *GitHub repository*.
-Available at: <https://github.com/WaterFutures/WaterBenchmarkHub>.
 
 Stahlhofen, P., **Artelt, A.**, Hermes, L., and Hammer, B. (2023).
 Adversarial attacks on leakage detectors in water distribution networks.
