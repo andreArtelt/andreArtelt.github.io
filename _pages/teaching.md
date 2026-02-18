@@ -9,12 +9,13 @@ author_profile: true
 
 ## Supervision
 
-12 Bachelor theses, 4 Master projects, 4 Master thesis.
+15 Bachelor theses, 4 Master projects, 4 Master thesis.
 
 ## Course Instructor
 
 | Year            |          Course                                     |
 | --------------  | --------------------------------------------------- |
+| Summer 2026     | Machine Learning for Water Distribution Networks    |
 | Summer 2025     | Machine Learning for Water Distribution Networks    |
 
 

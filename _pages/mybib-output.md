@@ -1,10 +1,21 @@
-Hermes, L., André Artelt, S. G. V., Polycarpou, M. M., and Hammer, B.
+**Artelt, A.**, Vrachimis, S. G., Eliades, D. G., Kuhl, U., Hammer, B., and
+Polycarpou, M. M. (2026a). Interpretable event diagnosis in water
+distribution networks. *Intelligent Systems with Applications* 29,
+200621. doi:
+[10.1016/j.iswa.2025.200621](https://doi.org/10.1016/j.iswa.2025.200621).
+
+**Artelt, A.**, Sharma, S., Lecué, F., and Hammer, B. (2026b). The effect of
+data poisoning on counterfactual explanations. *Information Fusion*,
+104237. doi:
+[10.1016/j.inffus.2026.104237](https://doi.org/10.1016/j.inffus.2026.104237).
+
+Hermes, L., **Artelt, A.**, Vrachimis, S. G., Polycarpou, M. M., and Hammer, B.
 (2025). A Benchmark for Physics-informed Machine Learning of Chlorine
 States in Water Distribution Networks. *SN Computer Science* 6. doi:
 [10.1007/s42979-025-04008-y](https://doi.org/10.1007/s42979-025-04008-y).
 
 **Artelt, A.** (2025a). EPANET-PLUS. *GitHub repository*. Available at:
-<https://github.com/WaterFutures/EPANET-PLUS>
+<https://github.com/WaterFutures/EPANET-PLUS>.
 
 **Artelt, A.** (2025b). EPyT-Control – EPANET Python Toolkit - Control.
 *GitHub repository*. Available at:
@@ -15,12 +26,23 @@ T. (2025). Explainable ai, energy and critical infrastructure systems.
 *AI Magazine* 46. doi:
 [10.1002/aaai.70033](https://doi.org/10.1002/aaai.70033).
 
+**Artelt, A.**, Olsen, M., and Tierney, K. (2025a). On the hardness of
+computing counterfactual and semi-factual explanations in XAI.
+*Transactions on Machine Learning Research*. Available at:
+<https://openreview.net/forum?id=aELzBw0q1O>.
+
 Stahlhofen, P., Zanutto, D., **Artelt, A.**, Hermes, L., Müller, A., Hammer,
 B., et al. (2025). Reinforcement learning for dynamic pump scheduling
 under demand uncertainty. *21st Computing and Control in the Water
 Industry Conference (CCWI 2025) at the University of Sheffield (1st -
 3rd September 2025)*. doi:
 [10.15131/SHEF.DATA.29921117.V1](https://doi.org/10.15131/SHEF.DATA.29921117.V1).
+
+Ashraf, I., **Artelt, A.**, and Hammer, B. (2025). Scalable and robust
+physics-informed graph neural networks for water distribution systems.
+*2025 International Joint Conference on Neural Networks (IJCNN)*, 1–8.
+doi:
+[10.1109/ijcnn64981.2025.11229349](https://doi.org/10.1109/ijcnn64981.2025.11229349).
 
 Mazur, A., Peters, H., **Artelt, A.**, Koller, L., Hartmann, C., Trächtler,
 A., et al. (2025). Studying the generalization behavior of surrogate
@@ -29,7 +51,7 @@ models for punch-bending by generating plausible counterfactuals.
 [10.1007/978-3-032-04555-3\_16](https://doi.org/10.1007/978-3-032-04555-3_16).
 
 **Artelt, A.**, Giese, K., Vrachimis, S. G., Eliades, D. G., Polycarpou, M.
-M., and Hammer, B. (2025). The WaterBenchmarkHub: A Platform for
+M., and Hammer, B. (2025b). The WaterBenchmarkHub: A Platform for
 Benchmarks in Water Distribution Networks. *21st Computing and Control
 in the Water Industry Conference (CCWI 2025) at the University of
 Sheffield (1st - 3rd September 2025)*. doi:
