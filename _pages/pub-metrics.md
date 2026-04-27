@@ -1,4 +1,4 @@
-Metrics according to Google Scholar (_16.02.2026_):<br/>
-**h-Index:** 14<br/>
-**i10-Index:** 28<br/>
-**Number of Citations:** 794<br/>
+Metrics according to Google Scholar (_27.04.2026_):<br/>
+**h-Index:** 15<br/>
+**i10-Index:** 31<br/>
+**Number of Citations:** 855<br/>
