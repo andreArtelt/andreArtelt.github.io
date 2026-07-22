@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+**A. Artelt**, U. Kuhl, *Counterfactual Explanations of AI Systems:
+Fundamentals, Methods, & User Studies for XAI* [Tutorial](https://icpr2026.org/tutorials.html) at ICPR 2026
+
+**A. Artelt**,  K. Baker, B. Hammer, F. Leofante *Explainable AI in Energy and Critical Infrastructure Systems* [Dagstuhl Seminar](https://www.dagstuhl.de/26312) at Dagstuhl 2026
+
+**A. Artelt**, I. Ashraf, L. Hermes *A Practical Introduction to Physics-informed Deep Learning
+for Surrogate Models of Drinking Water Systems* [Tutorial](https://www.wdsa-ccwi2026.ucy.ac.cy/short-courses/#sc3) at WDSA CCWI 2026
+
 **A. Artelt**, L. Hermes, J. Strotherm, B. Hammer, S. Vrachimis, et al. *1st AI for Drinking Water Chlorination Challenge.* [Competition](https://github.com/WaterFutures/AI-for-Drinking-Water-Chlorination-Challenge-IJCAI-25) at IJCAI 2025
 
 U. Kuhl, **A. Artelt**, M. Keane *(Really) Using Counterfactuals to Explain AI Systems: Fundamentals, Methods, & User Studies for XAI.* [Tutorial](https://sites.google.com/view/cfe-tutorial-aaai-25) at AAAI 2025

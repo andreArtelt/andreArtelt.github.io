@@ -32,6 +32,12 @@ Water Distribution Networks (WDNs).
 <img src="https://github.com/WaterFutures/EPyT-Control/blob/main/docs/_static/gimmick.png?raw=true" style="width: 100%,height: auto">
 
 
+<h2>EPANET-PLUS</h2>
+<div markdown=1>
+[EPANET-PLUS](https://github.com/WaterFutures/EPANET-PLUS) is a C library that merges EPANET and EPANET-MSX into a single library. Most importantly, it also provides a Python package with a high-performance interface (i.e., C extension) to the C library, together with additional helper functions for an easier use of EPANET and EPANET-MSX.
+</div>
+
+
 <h2>CEML -- Counterfactuals for Explaining Machine Learning models - A Python toolbox</h2>
 <div markdown=1>
 [CEML](https://github.com/andreartelt/ceml) is a Python toolbox for computing counterfactuals. Counterfactuals can be used to explain the predictions of machine learing models.
