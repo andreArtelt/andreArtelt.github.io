@@ -9,7 +9,7 @@ author_profile: true
 
 ## Supervision
 
-16 Bachelor theses, 4 Master projects, 5 Master thesis.
+17 Bachelor theses, 4 Master projects, 5 Master thesis.
 
 ## Course Instructor
 
